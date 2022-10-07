@@ -8,7 +8,7 @@ We separate tokens with different branches.
 | ----------- | ----------- |
 | figmaToken   | Only Token form Figma Tokens |
 | jsonToken   | Token after build into clean json nested format |
-| cssToken   | Token after build into style.css format |
+| cssToken   | Token after build into style.css format ( :root -- )|
 
 
 
