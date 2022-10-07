@@ -1,0 +1,52 @@
+{
+  "mobile": {
+    "heading": {
+      "bold": {
+        "xs": "600 14px/125% Poppins",
+        "sm": "600 16px/125% Poppins",
+        "md": "600 20px/125% Poppins",
+        "lg": "600 24px/125% Poppins",
+        "xl": "600 30px/150% Poppins",
+        "2xl": "600 36px/150% Poppins",
+        "3xl": "600 48px/150% Poppins",
+        "4xl": "600 60px/150% Poppins",
+        "5xl": "600 72px/150% Poppins",
+        "6xl": "600 96px/150% Poppins",
+        "7xl": "600 128px/150% Poppins"
+      },
+      "extralight": {
+        "xs": "200 14px/125% Poppins",
+        "sm": "200 16px/125% Poppins",
+        "md": "200 20px/125% Poppins",
+        "lg": "200 24px/125% Poppins",
+        "xl": "200 30px/150% Poppins",
+        "2xl": "200 36px/150% Poppins",
+        "3xl": "200 48px/150% Poppins",
+        "4xl": "200 60px/150% Poppins",
+        "5xl": "200 72px/150% Poppins",
+        "6xl": "200 96px/150% Poppins",
+        "7xl": "200 128px/150% Poppins"
+      }
+    },
+    "text": {
+      "regular": {
+        "2xs": "400 10px/125% Poppins",
+        "xs": "400 12px/125% Poppins",
+        "sm": "400 14px/125% Poppins",
+        "md": "400 16px/125% Poppins",
+        "lg": "400 18px/125% Poppins",
+        "xl": "400 20px/125% Poppins",
+        "2xl": "400 24px/125% Poppins"
+      },
+      "bold": {
+        "2xs": "700 10px/125% Poppins",
+        "xs": "700 12px/125% Poppins",
+        "sm": "700 14px/125% Poppins",
+        "md": "700 16px/125% Poppins",
+        "lg": "700 18px/125% Poppins",
+        "xl": "700 20px/125% Poppins",
+        "2xl": "700 24px/125% Poppins"
+      }
+    }
+  }
+}
