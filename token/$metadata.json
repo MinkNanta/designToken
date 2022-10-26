@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "color",
-    "size",
     "asset"
   ]
 }
