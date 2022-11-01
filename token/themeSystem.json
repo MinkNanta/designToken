@@ -302,11 +302,11 @@
         "type": "color"
       },
       "200": {
-        "value": "{colors.blue.300}",
+        "value": "{colors.blue.200}",
         "type": "color"
       },
       "300": {
-        "value": "{colors.blue.400}",
+        "value": "{colors.blue.300}",
         "type": "color"
       },
       "400": {
