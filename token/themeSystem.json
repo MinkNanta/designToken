@@ -544,50 +544,6 @@
         "type": "color"
       }
     },
-    "textdark": {
-      "primary": {
-        "value": "{colors.neutral.50}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{colors.neutral.100}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{colors.neutral.400}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{colors.neutral.600}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{colors.blue.500}",
-        "type": "color"
-      }
-    },
-    "textlight": {
-      "primary": {
-        "value": "{colors.neutral.900}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{colors.neutral.600}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{colors.neutral.400}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{colors.neutral.300}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{colors.blue.600}",
-        "type": "color"
-      }
-    },
     "secondary": {
       "50": {
         "value": "{colors.blue.50}",
@@ -671,6 +627,14 @@
         "value": "{colors.blue.900}",
         "type": "color"
       }
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "black": {
+      "value": "{colors.grey.900}",
+      "type": "color"
     }
   },
   "mobile": {
@@ -1529,6 +1493,60 @@
     "transparent": {
       "value": "rgba(0,0,0,0)",
       "type": "color"
+    }
+  },
+  "text": {
+    "light": {
+      "primary": {
+        "value": "{brand.black}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{brand.grey.dark}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{colors.grey.400}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{brand.primary.base}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{brand.error.base}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{brand.success.base}",
+        "type": "color"
+      }
+    },
+    "dark": {
+      "primary": {
+        "value": "{brand.grey.lightest}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{brand.grey.lighter}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{colors.grey.400}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{colors.primary.500}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{brand.error.base}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{brand.success.base}",
+        "type": "color"
+      }
     }
   }
 }
