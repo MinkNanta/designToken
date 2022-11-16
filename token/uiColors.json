@@ -240,14 +240,6 @@
         "type": "color"
       }
     },
-    "light": {
-      "value": "{brand.grey.lightest}",
-      "type": "color"
-    },
-    "dark": {
-      "value": "{brand.grey.darkest}",
-      "type": "color"
-    },
     "white": {
       "value": "#ffffff",
       "type": "color"
