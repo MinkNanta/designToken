@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "extendedColors",
-    "brandColors",
-    "uiColors",
+    "colors/extendedColors",
+    "colors/brandColors",
+    "colors/uiColors",
     "size",
     "themeSystem"
   ]
