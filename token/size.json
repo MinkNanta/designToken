@@ -416,6 +416,10 @@
       "value": "10%",
       "type": "sizing"
     },
+    "15": {
+      "value": "15%",
+      "type": "sizing"
+    },
     "16": {
       "value": "16.666667%",
       "type": "sizing",
@@ -450,7 +454,7 @@
       "value": "60%",
       "type": "sizing"
     },
-    "66": {
+    "67": {
       "value": "66.666667%",
       "type": "sizing",
       "description": "8 column of 12 grids"
@@ -501,51 +505,51 @@
       "type": "sizing"
     },
     "sm": {
-      "value": "{size.base}*0.75",
+      "value": "{size.base}*1",
       "type": "sizing"
     },
     "md": {
-      "value": "{size.base}",
-      "type": "sizing"
-    },
-    "lg": {
       "value": "{size.base}*1.5",
       "type": "sizing"
     },
-    "xl": {
+    "lg": {
       "value": "{size.base}*2",
       "type": "sizing"
     },
-    "2xl": {
+    "xl": {
       "value": "{size.base}*2.5",
       "type": "sizing"
     },
-    "3xl": {
+    "2xl": {
       "value": "{size.base}*3",
       "type": "sizing"
     },
-    "4xl": {
+    "3xl": {
       "value": "{size.base}*4",
       "type": "sizing"
     },
-    "5xl": {
+    "4xl": {
       "value": "{size.base}*5",
       "type": "sizing"
     },
-    "6xl": {
-      "value": "{size.base}*6",
-      "type": "sizing"
-    },
-    "7xl": {
+    "5xl": {
       "value": "{size.base}*8",
       "type": "sizing"
     },
+    "6xl": {
+      "value": "{size.base}*16",
+      "type": "sizing"
+    },
+    "7xl": {
+      "value": "{size.base}*32",
+      "type": "sizing"
+    },
     "8xl": {
-      "value": "{size.base}*10",
+      "value": "{size.base}*64",
       "type": "sizing"
     },
     "9xl": {
-      "value": "{size.base}*15",
+      "value": "{size.base}*80",
       "type": "sizing"
     }
   }
