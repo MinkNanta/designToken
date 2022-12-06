@@ -1,0 +1,82 @@
+{
+  "size": {
+    "xs-border-radius": {
+      "value": "{BorderRadius.xs}",
+      "type": "borderRadius"
+    },
+    "sm-border-radius": {
+      "value": "{BorderRadius.xs}",
+      "type": "borderRadius"
+    },
+    "md-border-radius": {
+      "value": "{BorderRadius.xs}",
+      "type": "borderRadius"
+    },
+    "lg-border-radius": {
+      "value": "{BorderRadius.xs}",
+      "type": "borderRadius"
+    },
+    "fontsize": {
+      "xs-font-size": {
+        "value": {
+          "fontFamily": "{fonts.body}",
+          "fontWeight": "{fontWeights.regular}",
+          "fontSize": "{fontSizes.sm}"
+        },
+        "type": "typography",
+        "description": "{fontSizes.sm}"
+      },
+      "sm-font-size": {
+        "value": {
+          "fontFamily": "{fonts.body}",
+          "fontWeight": "{fontWeights.regular}",
+          "fontSize": "{fontSizes.sm}"
+        },
+        "type": "typography",
+        "description": "{fontSizes.sm}"
+      },
+      "md-font-size": {
+        "value": {
+          "fontFamily": "{fonts.body}",
+          "fontWeight": "{fontWeights.regular}",
+          "fontSize": "{fontSizes.base}"
+        },
+        "type": "typography",
+        "description": "{fontSizes.base}"
+      },
+      "lg-font-size": {
+        "value": {
+          "fontFamily": "{fonts.body}",
+          "fontWeight": "{fontWeights.regular}",
+          "fontSize": "{fontSizes.lg}"
+        },
+        "type": "typography",
+        "description": "{fontSizes.lg}"
+      }
+    },
+    "pill-border-radius": {
+      "value": "{BorderRadius.circle}",
+      "type": "borderRadius"
+    },
+    "xs-padding": {
+      "value": "{spacing.xs}",
+      "type": "spacing"
+    },
+    "sm-padding": {
+      "value": "{spacing.sm}",
+      "type": "spacing"
+    },
+    "md-padding": {
+      "value": "{spacing.sm}",
+      "type": "spacing"
+    },
+    "lg-padding": {
+      "value": "{spacing.md}",
+      "type": "spacing"
+    },
+    "none-padding": {
+      "value": "{spacing.0}",
+      "type": "spacing"
+    }
+  }
+}

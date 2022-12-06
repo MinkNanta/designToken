@@ -3,6 +3,7 @@
     "colors/extendedColors",
     "colors/brandColors",
     "colors/uiColors",
-    "size"
+    "size",
+    "component"
   ]
 }

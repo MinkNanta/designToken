@@ -19,9 +19,83 @@
     "value": "1",
     "type": "opacity"
   },
-  "base": {
-    "value": "16",
-    "type": "spacing"
+  "spacing": {
+    "0": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "base": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "inherit": {
+      "value": "inherit",
+      "type": "spacing"
+    },
+    "auto": {
+      "value": "auto",
+      "type": "spacing"
+    },
+    "3xs": {
+      "value": "{spacing.base}*0.125",
+      "type": "spacing"
+    },
+    "2xs": {
+      "value": "{spacing.base}*0.25",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "{spacing.base}*0.5",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "{spacing.base}*0.75",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "{spacing.base}*1.25",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "{spacing.base}*1.5",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "{spacing.base}*2",
+      "type": "spacing"
+    },
+    "2xl": {
+      "value": "{spacing.base}*2.5",
+      "type": "spacing"
+    },
+    "3xl": {
+      "value": "{spacing.base}*3",
+      "type": "spacing"
+    },
+    "4xl": {
+      "value": "{spacing.base}*4",
+      "type": "spacing"
+    },
+    "5xl": {
+      "value": "{spacing.base}*5",
+      "type": "spacing"
+    },
+    "6xl": {
+      "value": "{spacing.base}*6",
+      "type": "spacing"
+    },
+    "7xl": {
+      "value": "{spacing.base}*8",
+      "type": "spacing"
+    },
+    "8xl": {
+      "value": "{spacing.base}*10",
+      "type": "spacing"
+    },
+    "9xl": {
+      "value": "{spacing.base}*15",
+      "type": "spacing"
+    }
   },
   "BorderRadius": {
     "none": {
@@ -29,31 +103,31 @@
       "type": "borderRadius"
     },
     "xs": {
-      "value": "{base}*0.25",
+      "value": "{spacing.base}*0.25",
       "type": "borderRadius"
     },
     "sm": {
-      "value": "{base}*0.375",
+      "value": "{spacing.base}*0.375",
       "type": "borderRadius"
     },
     "md": {
-      "value": "{base}*0.5",
+      "value": "{spacing.base}*0.5",
       "type": "borderRadius"
     },
     "lg": {
-      "value": "{base}*0.75",
+      "value": "{spacing.base}*0.75",
       "type": "borderRadius"
     },
     "xl": {
-      "value": "{base}*1",
+      "value": "{spacing.base}*1",
       "type": "borderRadius"
     },
     "2xl": {
-      "value": "{base}*1.5",
+      "value": "{spacing.base}*1.5",
       "type": "borderRadius"
     },
     "3xl": {
-      "value": "{base}*2",
+      "value": "{spacing.base}*2",
       "type": "borderRadius"
     },
     "circle": {
@@ -339,74 +413,6 @@
       "type": "fontWeights"
     }
   },
-  "inherit": {
-    "value": "inherit",
-    "type": "spacing"
-  },
-  "auto": {
-    "value": "auto",
-    "type": "spacing"
-  },
-  "3xs": {
-    "value": "{base}*0.125",
-    "type": "spacing"
-  },
-  "2xs": {
-    "value": "{base}*0.25",
-    "type": "spacing"
-  },
-  "xs": {
-    "value": "0.5",
-    "type": "spacing"
-  },
-  "sm": {
-    "value": "{base}*0.75",
-    "type": "spacing"
-  },
-  "md": {
-    "value": "{base}*1.25",
-    "type": "spacing"
-  },
-  "lg": {
-    "value": "{base}*1.5",
-    "type": "spacing"
-  },
-  "xl": {
-    "value": "{base}*2",
-    "type": "spacing"
-  },
-  "2xl": {
-    "value": "{base}*2.5",
-    "type": "spacing"
-  },
-  "3xl": {
-    "value": "{base}*3",
-    "type": "spacing"
-  },
-  "4xl": {
-    "value": "{base}*4",
-    "type": "spacing"
-  },
-  "5xl": {
-    "value": "{base}*5",
-    "type": "spacing"
-  },
-  "6xl": {
-    "value": "{base}*6",
-    "type": "spacing"
-  },
-  "7xl": {
-    "value": "{base}*8",
-    "type": "spacing"
-  },
-  "8xl": {
-    "value": "{base}*10",
-    "type": "spacing"
-  },
-  "9xl": {
-    "value": "{base}*15",
-    "type": "spacing"
-  },
   "width": {
     "0": {
       "value": "0",
@@ -479,6 +485,20 @@
     "full": {
       "value": "100%",
       "type": "sizing"
+    }
+  },
+  "fonts": {
+    "brand": {
+      "value": "Poppins",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "Poppins",
+      "type": "fontFamilies"
+    },
+    "monospace": {
+      "value": "monospace",
+      "type": "fontFamilies"
     }
   }
 }
