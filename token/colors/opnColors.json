@@ -40,7 +40,7 @@
         "type": "color"
       },
       "light": {
-        "value": "{brand.success.400}",
+        "value": "{brand.success.300}",
         "type": "color"
       },
       "base": {
@@ -70,7 +70,7 @@
         "type": "color"
       },
       "light": {
-        "value": "{brand.warning.400}",
+        "value": "{brand.warning.300}",
         "type": "color"
       },
       "base": {
@@ -100,7 +100,7 @@
         "type": "color"
       },
       "light": {
-        "value": "{brand.error.400}",
+        "value": "{brand.error.300}",
         "type": "color"
       },
       "base": {
