@@ -184,7 +184,7 @@
         "y": "0px",
         "blur": "0px",
         "spread": "0px",
-        "color": "{brand.generic.black}",
+        "color": "{brand.grey.black}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

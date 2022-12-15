@@ -1,10 +1,10 @@
 {
   "tokenSetOrder": [
-    "colors/extendedColors",
-    "colors/brandColors",
+    "foundations/extendedColors",
+    "foundations/brandColors",
+    "foundations/size",
     "colors/uiColors",
     "colors/opnColors",
-    "size",
     "component"
   ]
 }

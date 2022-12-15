@@ -344,7 +344,7 @@
     },
     "black": {
       "500": {
-        "value": "{brand.grey.900}",
+        "value": "{colors.neutral.900}",
         "type": "color"
       }
     },

@@ -148,25 +148,23 @@
       "darkest": {
         "value": "{brand.grey.800}",
         "type": "color"
-      }
-    },
-    "generic": {
+      },
       "white": {
-        "value": "#ffffff",
+        "value": "{brand.white.500}",
         "type": "color"
       },
       "black": {
-        "value": "{brand.grey.900}",
+        "value": "{brand.black.500}",
         "type": "color"
       },
       "transparent": {
-        "value": "rgba(0,0,0,0)",
+        "value": "{brand.transparent.500}",
         "type": "color"
       }
     },
     "text": {
       "primary": {
-        "value": "{brand.generic.black}",
+        "value": "{brand.black.500}",
         "type": "color"
       },
       "secondary": {

@@ -254,7 +254,7 @@
     },
     "light": {
       "primary": {
-        "value": "{brand.generic.black}",
+        "value": "{brand.black.500}",
         "type": "color"
       },
       "secondary": {
