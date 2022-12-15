@@ -10,23 +10,23 @@
         "type": "color"
       },
       "light": {
-        "value": "{brand.primary.400}",
+        "value": "{brand.primary.300}",
         "type": "color"
       },
       "base": {
-        "value": "{brand.primary.500}",
-        "type": "color"
-      },
-      "dark": {
         "value": "{brand.primary.600}",
         "type": "color"
       },
-      "darker": {
+      "dark": {
         "value": "{brand.primary.700}",
         "type": "color"
       },
-      "darkest": {
+      "darker": {
         "value": "{brand.primary.800}",
+        "type": "color"
+      },
+      "darkest": {
+        "value": "{brand.primary.900}",
         "type": "color"
       }
     },
