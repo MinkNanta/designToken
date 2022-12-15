@@ -36,7 +36,7 @@
         "type": "color"
       },
       "lighter": {
-        "value": "{brand.success.100}",
+        "value": "{brand.success.200}",
         "type": "color"
       },
       "light": {
@@ -66,7 +66,7 @@
         "type": "color"
       },
       "lighter": {
-        "value": "{brand.warning.100}",
+        "value": "{brand.warning.200}",
         "type": "color"
       },
       "light": {
@@ -96,7 +96,7 @@
         "type": "color"
       },
       "lighter": {
-        "value": "{brand.error.100}",
+        "value": "{brand.error.200}",
         "type": "color"
       },
       "light": {
