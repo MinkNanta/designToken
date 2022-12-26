@@ -3,8 +3,8 @@
     "foundations/OpnPalettes",
     "foundations/brandColors",
     "foundations/size",
-    "colors/uiColors",
     "colors/opnColors",
+    "colors/uiColors",
     "component"
   ]
 }

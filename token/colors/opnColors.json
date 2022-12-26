@@ -148,23 +148,23 @@
       "darkest": {
         "value": "{brand.grey.800}",
         "type": "color"
-      },
-      "white": {
-        "value": "{brand.white.500}",
-        "type": "color"
-      },
-      "black": {
-        "value": "{brand.black.500}",
-        "type": "color"
-      },
-      "transparent": {
-        "value": "{brand.transparent.500}",
-        "type": "color"
       }
+    },
+    "white": {
+      "value": "{brand.white.500}",
+      "type": "color"
+    },
+    "black": {
+      "value": "{brand.black.500}",
+      "type": "color"
+    },
+    "transparent": {
+      "value": "{brand.transparent.500}",
+      "type": "color"
     },
     "text": {
       "primary": {
-        "value": "{brand.black.500}",
+        "value": "{brand.black}",
         "type": "color"
       },
       "secondary": {
