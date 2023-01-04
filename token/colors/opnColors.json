@@ -187,6 +187,40 @@
         "value": "{brand.success.base}",
         "type": "color"
       }
+    },
+    "gradient": {
+      "light-grey": {
+        "value": "linear-gradient(90deg, #ced3de 0%, #ffffff 100%)",
+        "type": "color"
+      },
+      "light-blue01": {
+        "value": "linear-gradient(90deg, #6d99f2 0%, #f2f6ff 100%)",
+        "type": "color"
+      },
+      "light-blue02": {
+        "value": "linear-gradient(90deg, #1451cc 0%, #d9e6ff 100%)",
+        "type": "color"
+      },
+      "light-blue03": {
+        "value": "linear-gradient(90deg, #192c66 0%, #91b1f2 100%)",
+        "type": "color"
+      },
+      "dark-grey": {
+        "value": "linear-gradient(90deg, #98a1b2 0%, #1c2433 100%)",
+        "type": "color"
+      },
+      "dark-grey01": {
+        "value": "linear-gradient(90deg, #1d5cdb 0%, #6d99f2 100%)",
+        "type": "color"
+      },
+      "dark-grey02": {
+        "value": "linear-gradient(90deg, #457ae5 0%, #b6caf2 100%)",
+        "type": "color"
+      },
+      "dark-grey03": {
+        "value": "linear-gradient(90deg, #2951ce 0%, #5286ee 100%)",
+        "type": "color"
+      }
     }
   }
 }
