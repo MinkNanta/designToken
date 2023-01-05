@@ -1,24 +1,26 @@
 [
   {
+    "id": "138d19d25e709101927066fe2c2c60419e15e678",
+    "name": "Custom",
+    "selectedTokenSets": {
+      "foundations/brandColors": "source",
+      "colors/uiColors": "enabled",
+      "typography/desktop-eng": "disabled",
+      "typography/mobile-eng": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "3cd56fc756e87d0d5dd201f7179510dcc00a7095",
     "name": "Opn",
     "selectedTokenSets": {
       "foundations/OpnPalettes": "source",
       "foundations/brandColors": "source",
       "colors/opnColors": "enabled",
-      "typography/th": "disabled",
-      "typography/eng": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "138d19d25e709101927066fe2c2c60419e15e678",
-    "name": "Custom",
-    "selectedTokenSets": {
-      "foundations/brandColors": "source",
-      "colors/uiColors": "enabled",
-      "typography/th": "disabled",
-      "typography/eng": "disabled"
+      "foundations/size": "source",
+      "typography/th": "enabled",
+      "typography/desktop-eng": "enabled",
+      "typography/mobile-eng": "disabled"
     },
     "$figmaStyleReferences": {}
   }
