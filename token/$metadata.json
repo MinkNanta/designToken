@@ -4,8 +4,9 @@
     "foundations/brandColors",
     "foundations/size",
     "typography/mobile-eng",
+    "typography/mobile-th",
     "typography/desktop-eng",
-    "typography/th",
+    "typography/desktop-th",
     "colors/opnColors",
     "colors/uiColors"
   ]
