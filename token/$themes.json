@@ -4,9 +4,7 @@
     "name": "Custom",
     "selectedTokenSets": {
       "foundations/brandColors": "source",
-      "colors/uiColors": "enabled",
-      "foundations/typo": "disabled",
-      "typography/desktop-th": "disabled"
+      "colors/uiColors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -18,9 +16,7 @@
       "foundations/brandColors": "source",
       "colors/opnColors": "enabled",
       "foundations/size": "source",
-      "typography/desktop-eng": "enabled",
-      "foundations/typo": "disabled",
-      "typography/desktop-th": "disabled"
+      "typography/desktop-eng": "enabled"
     },
     "$figmaStyleReferences": {
       "brand.primary.lightest": "S:e4596863086e90a61ebe8ff69a11fd17e795ec89,",

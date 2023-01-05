@@ -18,11 +18,11 @@
         "type": "color"
       },
       "dark": {
-        "value": "{brand.primary.700}",
+        "value": "{brand.primary.600}",
         "type": "color"
       },
       "darker": {
-        "value": "{brand.primary.800}",
+        "value": "{brand.primary.700}",
         "type": "color"
       },
       "darkest": {
