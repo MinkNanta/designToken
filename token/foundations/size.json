@@ -161,11 +161,11 @@
       "type": "lineHeights"
     },
     "input": {
-      "value": "{lineHeights.sm}",
+      "value": "{lineHeights.text}",
       "type": "lineHeights"
     },
     "heading": {
-      "value": "{lineHeights.sm}",
+      "value": "{lineHeights.text}",
       "type": "lineHeights"
     },
     "heading-xl": {

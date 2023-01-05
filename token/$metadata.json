@@ -3,6 +3,8 @@
     "foundations/OpnPalettes",
     "foundations/brandColors",
     "foundations/size",
+    "typography/eng",
+    "typography/th",
     "colors/opnColors",
     "colors/uiColors"
   ]

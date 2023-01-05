@@ -5,7 +5,9 @@
     "selectedTokenSets": {
       "foundations/OpnPalettes": "source",
       "foundations/brandColors": "source",
-      "colors/opnColors": "enabled"
+      "colors/opnColors": "enabled",
+      "typography/th": "disabled",
+      "typography/eng": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,7 +16,9 @@
     "name": "Custom",
     "selectedTokenSets": {
       "foundations/brandColors": "source",
-      "colors/uiColors": "enabled"
+      "colors/uiColors": "enabled",
+      "typography/th": "disabled",
+      "typography/eng": "disabled"
     },
     "$figmaStyleReferences": {}
   }
