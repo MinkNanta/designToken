@@ -93,8 +93,8 @@
       "type": "paragraphSpacing"
     }
   },
-  "desktop": {
-    "th": {
+  "mobile": {
+    "mobile-th": {
       "heading": {
         "bold": {
           "d1": {
