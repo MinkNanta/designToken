@@ -1,0 +1,138 @@
+{
+  "fonts-en": {
+    "brand": {
+      "value": "{fonts.brand}",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "{fonts.body}",
+      "type": "fontFamilies"
+    }
+  },
+  "fonts-th": {
+    "body": {
+      "value": "Eventpop",
+      "type": "fontFamilies"
+    },
+    "brand": {
+      "value": "Eventpop",
+      "type": "fontFamilies"
+    }
+  },
+  "fontSize-desktop": {
+    "d1": {
+      "value": "{fontSizes.7xl}",
+      "type": "fontSizes"
+    },
+    "d2": {
+      "value": "{fontSizes.6xl}",
+      "type": "fontSizes"
+    },
+    "h1": {
+      "value": "{fontSizes.5xl}",
+      "type": "fontSizes"
+    },
+    "h2": {
+      "value": "{fontSizes.4xl}",
+      "type": "fontSizes"
+    },
+    "h3": {
+      "value": "{fontSizes.3xl}",
+      "type": "fontSizes"
+    },
+    "h4": {
+      "value": "{fontSizes.2xl}",
+      "type": "fontSizes"
+    },
+    "h5": {
+      "value": "{fontSizes.xl}",
+      "type": "fontSizes"
+    },
+    "h6": {
+      "value": "{fontSizes.lg}",
+      "type": "fontSizes"
+    },
+    "b1": {
+      "value": "{fontSizes.lg}",
+      "type": "fontSizes"
+    },
+    "b2": {
+      "value": "{fontSizes.md}",
+      "type": "fontSizes"
+    },
+    "b3": {
+      "value": "{fontSizes.base}",
+      "type": "fontSizes"
+    },
+    "b4": {
+      "value": "{fontSizes.sm}",
+      "type": "fontSizes"
+    },
+    "c1": {
+      "value": "{fontSizes.xs}",
+      "type": "fontSizes"
+    },
+    "c2": {
+      "value": "{fontSizes.2xs}",
+      "type": "fontSizes"
+    }
+  },
+  "fontSize-mobile": {
+    "d1": {
+      "value": "{fontSizes.8xl}",
+      "type": "fontSizes"
+    },
+    "d2": {
+      "value": "{fontSizes.7xl}",
+      "type": "fontSizes"
+    },
+    "h1": {
+      "value": "{fontSizes.5xl}",
+      "type": "fontSizes"
+    },
+    "h2": {
+      "value": "{fontSizes.4xl}",
+      "type": "fontSizes"
+    },
+    "h3": {
+      "value": "{fontSizes.3xl}",
+      "type": "fontSizes"
+    },
+    "h4": {
+      "value": "{fontSizes.2xl}",
+      "type": "fontSizes"
+    },
+    "h5": {
+      "value": "{fontSizes.xl}",
+      "type": "fontSizes"
+    },
+    "h6": {
+      "value": "{fontSizes.lg}",
+      "type": "fontSizes"
+    },
+    "b1": {
+      "value": "{fontSizes.lg}",
+      "type": "fontSizes"
+    },
+    "b2": {
+      "value": "{fontSizes.md}",
+      "type": "fontSizes"
+    },
+    "b3": {
+      "value": "{fontSizes.base}",
+      "type": "fontSizes"
+    },
+    "b4": {
+      "value": "{fontSizes.sm}",
+      "type": "fontSizes"
+    },
+    "c1": {
+      "value": "{fontSizes.xs}",
+      "type": "fontSizes"
+    },
+    "c2": {
+      "value": "{fontSizes.2xs}",
+      "type": "fontSizes"
+    }
+  }
+}
