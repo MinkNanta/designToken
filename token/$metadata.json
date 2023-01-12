@@ -4,11 +4,11 @@
     "foundations/brandColors",
     "foundations/size",
     "foundations/typo",
+    "colors/opnColors",
+    "colors/uiColors",
     "typography/mobile-eng",
     "typography/mobile-th",
     "typography/desktop-eng",
-    "typography/desktop-th",
-    "colors/opnColors",
-    "colors/uiColors"
+    "typography/desktop-th"
   ]
 }

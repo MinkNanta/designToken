@@ -27,22 +27,22 @@
         "description": "400"
       },
       "500": {
-        "value": "{colors.blue.600}",
+        "value": "{colors.blue.500}",
         "type": "color",
         "description": "500"
       },
       "600": {
-        "value": "{colors.blue.700}",
+        "value": "{colors.blue.600}",
         "type": "color",
         "description": "600"
       },
       "700": {
-        "value": "{colors.blue.800}",
+        "value": "{colors.blue.700}",
         "type": "color",
         "description": "700"
       },
       "800": {
-        "value": "{colors.blue.900}",
+        "value": "{colors.blue.800}",
         "type": "color",
         "description": "800"
       },

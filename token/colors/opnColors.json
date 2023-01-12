@@ -123,7 +123,8 @@
     "grey": {
       "lightest": {
         "value": "{brand.grey.50}",
-        "type": "color"
+        "type": "color",
+        "description": "Grey Surface"
       },
       "lighter": {
         "value": "{brand.grey.100}",
@@ -152,10 +153,11 @@
     },
     "white": {
       "value": "#ffffff",
-      "type": "color"
+      "type": "color",
+      "description": "Base background (light)"
     },
     "black": {
-      "value": "{brand.grey.800}",
+      "value": "{brand.grey.900}",
       "type": "color"
     },
     "transparent": {
@@ -165,26 +167,43 @@
     "text": {
       "primary": {
         "value": "{brand.black}",
-        "type": "color"
+        "type": "color",
+        "description": "Headings (Opn Black)"
       },
       "secondary": {
         "value": "{brand.grey.dark}",
-        "type": "color"
+        "type": "color",
+        "description": "Body Text"
       },
       "tertiary": {
         "value": "{brand.grey.light}",
-        "type": "color"
+        "type": "color",
+        "description": "Description / Overline"
       },
       "accent": {
-        "value": "{brand.primary.base}",
-        "type": "color"
+        "value": "{brand.primary.dark}",
+        "type": "color",
+        "description": "Links / Accents"
       },
       "error": {
-        "value": "{brand.error.base}",
+        "value": "{brand.error.dark}",
         "type": "color"
       },
       "success": {
-        "value": "{brand.success.base}",
+        "value": "{brand.success.dark}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{brand.warning.dark}",
+        "type": "color"
+      },
+      "white": {
+        "value": "{brand.white}",
+        "type": "color",
+        "description": "Text on colored background"
+      },
+      "disabled": {
+        "value": "rgba({brand.text.tertiary} 50%)",
         "type": "color"
       }
     },
